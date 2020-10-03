@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chef Ish`s Delightful Dishes</title>
+</head>
+<body>
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="node_modules/socket.io-client/dist/socket.io.dev.js"></script>
+    <script src= "services.js"></script>
+    <script src="socketClient.js"></script>
+    <div id="message-container" style="padding-left: 200px;"> <p><b>MOTD: Apple to release new iPhone that can read minds!</b></p></div>
+    <div class="container">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="height: 500px; width: 600px;">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <placeHolderImageOne></placeHolderImageOne>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Here is the food slide!</h5>
+                        <p>This is food, yes</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <placeHolderImageTwo></placeHolderImageTwo>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Second slide deals with sports!</h5>
+                        <p>Whatever sport is showing above, I'm sure it's difficult</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <placeHolderImageThree></placeHolderImageThree>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Last slide deals with cats!</h5>
+                        <p>Cats, what else is there to say</p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <form id="replace-text" style="padding-left: 300px; padding-top: 200px" >
+        <input type = "text" id="message-input">
+        <button type="submit" id="replace-button"> Replace Banner Text</button>
+    </form>
+</body>
+</html>
