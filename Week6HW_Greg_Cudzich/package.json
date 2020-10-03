@@ -1,0 +1,16 @@
+{
+  "name": "hw6project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "userList.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Cudzich",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.10.7"
+  }
+}

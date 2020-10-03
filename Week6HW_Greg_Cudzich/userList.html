@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TODO List</title>
+</head>
+<body>
+<link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="node_modules/jquery/dist/jquery.js"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
+<script src="services.js"></script>
+<div class="container" style="padding-top: 200px">
+    <header>
+        <b>Input a message to save to the database</b>
+    </header>
+    <div class="row">
+        <div class="col">
+            <form id="formActual">
+                <input id="inputActual">
+                <button id="saveButton">Save to Database</button>
+            </form>
+        </div>
+        <div class="container" style="padding-top: 50px">
+
+        <header>
+            <b>Your list is here! Go get'em tiger!</b>
+        </header>
+        <div class="col">
+            <div id="list"></div>
+        </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
