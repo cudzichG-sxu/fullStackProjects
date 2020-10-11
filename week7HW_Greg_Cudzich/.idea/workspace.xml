@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba1b68a-e35a-4a47-a347-c7b055a5c761" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b9aa7369-7aa7-481f-b45d-a32fe0bb2e74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Week6HW_Greg_Cudzich/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6HW_Greg_Cudzich/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1iNgnw4gYDMwNQYR8m06HlbUNuY" />
+  <component name="ProjectId" id="1ihX232Prctry4bBZUUJGcsY7x1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -47,7 +47,6 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mongo" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -55,10 +54,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week5HW_Greg_Cudzich/httpserver.js" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week6HW_Greg_Cudzich/httpserver.js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gregc\WebstormProjects\week7HW_Greg_Cudzich\public" />
+      <recent name="C:\Users\gregc\WebstormProjects\week7HW_Greg_Cudzich" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="httpserver.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/httpserver.js" working-dir="$PROJECT_DIR$">
@@ -73,14 +78,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9ba1b68a-e35a-4a47-a347-c7b055a5c761" name="Default Changelist" comment="" />
-      <created>1601753634228</created>
+      <changelist id="b9aa7369-7aa7-481f-b45d-a32fe0bb2e74" name="Default Changelist" comment="" />
+      <created>1602360588359</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601753634228</updated>
-      <workItem from="1601753635354" duration="12878000" />
-      <workItem from="1601768194060" duration="1418000" />
-      <workItem from="1602358958728" duration="1131000" />
+      <updated>1602360588359</updated>
+      <workItem from="1602360590231" duration="13632000" />
     </task>
     <servers />
   </component>
@@ -97,32 +100,31 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601754358561">
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602367754307">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1601754358561" />
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1601756334498">
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1602367754307" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602367272831">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601756334498" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1601769641639">
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602367272831" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1602374399763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601769641639" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1601769641639">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602374399763" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1602374399763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601769641639" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1601769641639">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602374399763" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1602374399763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601769641639" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1601769641639">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602374399763" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1602374399763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601769641639" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602374399763" />
   </component>
 </project>
