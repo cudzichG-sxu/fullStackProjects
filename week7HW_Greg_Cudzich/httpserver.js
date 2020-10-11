@@ -57,6 +57,8 @@ mongoose.connection.once('open', function() {
                 response.status(404);
                 response.send(JSON.stringify(err));
             } else {
+                //I think either 202 or 200 is the correct status to serve
+                //when deleting an item.
                 response.status(202);
                 response.send(JSON.stringify({}));
             }
